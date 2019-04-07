@@ -1,0 +1,21 @@
+{
+  "name": "taskmanager",
+  "version": "1.0.0",
+  "description": "TaskManager Project",
+  "main": "TaskManger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tammamabourshaid/TaskManager.git"
+  },
+  "author": "Tammam Abou Rshaid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tammamabourshaid/TaskManager/issues"
+  },
+  "homepage": "https://github.com/tammamabourshaid/TaskManager#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
